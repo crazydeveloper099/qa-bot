@@ -1,0 +1,15 @@
+fastapi
+uvicorn
+pydantic
+pydantic-settings
+langchain
+langchain-community
+anthropic
+pypdf
+PyPDF2
+motor
+python-multipart
+python-dotenv
+chromadb
+tiktoken
+sentence-transformers
